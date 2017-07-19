@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Scorekeeper</string>
+
+    <string name="team_one_name">Team One</string>
+
+    <string name="team_two_name">Team Two</string>
 </resources>
