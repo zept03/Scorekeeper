@@ -58,13 +58,6 @@ public class ScoreFragment extends Fragment {
 
 
 
-//    @Override
-//    public void onSaveInstanceState(Bundle outState) {
-//        super.onSaveInstanceState(outState);
-//        outState.putInt("score", score);
-//    }
-
-
 
 
     public void SetText() {
